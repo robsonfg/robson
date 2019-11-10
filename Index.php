@@ -1,6 +1,6 @@
 <?php
-echo "Meu primeiro codigo php <strong>  Ola mundo <strong/>";
+echo "Meu primeiro codigo php <strong>  Ola mundo 598 <strong/>";
 
-echo "mexendo";
+echo "nao si porque";
 
 ?>
